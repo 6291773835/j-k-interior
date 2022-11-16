@@ -1,0 +1,36 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+
+.font-pic img{
+    width: 100%;
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    }
+    .first-text{
+        border: 10px;
+        background-color: yellow;
+            color: rgb(185, 31, 7);
+            position: center;
+            
+            
+        }
+        .second-text{
+            border: 10px;
+        background-color: black;
+            color: whitesmoke;
+            position: center;
+            
+        }
+        .third-text{
+            border: 10px;
+        background-color: black;
+            color: red;
+            position: center;
+        }
+    
